@@ -1,0 +1,14 @@
+{
+  "name": "@claude-code-ui/desktop",
+  "version": "0.0.1",
+  "description": "Desktop app for Claude Code UI",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron ."
+  },
+  "dependencies": {
+    "electron": "^39.2.7"
+  }
+}
